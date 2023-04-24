@@ -5,7 +5,7 @@ class Arith
   try
 {
 
-  int a=10;
+  int a=115;
   int b=0;
   int c=a/b;
 }catch(ArithmeticException e)
